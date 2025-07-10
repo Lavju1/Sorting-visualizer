@@ -20,4 +20,4 @@ A visual tool to demonstrate sorting algorithms like Bubble Sort, Selection Sort
 - JavaScript
 
 ## 📂 Live Demo
-[Live Project Link](#)
+https://lavju1.github.io/Sorting-visualizer/
